@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alif Aziz"
+title                    : "Alif Aziz's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Alif Aziz"
+description              : &description "Medical Student at UCL"
 url                      : https://casualcoffeeaddict.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "casualcoffeeaddict/academicpages.github.io"
+repository               : "casualcoffeeaddict/casualcoffeeaddict.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Alif Aziz"
+  avatar           : "profile2.jpeg"
+  bio              : "Medical Student at UCL interested in Computational Neuroscience"
   location         : "London"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -244,6 +244,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _volunteering
+  - scope:
+      path: ""
+      type: volunteering
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
