@@ -21,10 +21,18 @@ Research Experience
   * Supervisor: Prof. Ray Dolan & Dr. Lennart Luettgau
   * Interest: Understand how humans and computational models are able to act in unseen enviroments
 
-* Fall 2015: Research Assistant
-  * Github University
+* Winter 2021 - Summer 2022: Research Assistant
+  * Sainsbury Welcome Centre for Neural Circuits and Behaviour
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Prof. John O'Keefe, Dr. Jake Ormond
+
+* Summer 2021: Research Assistant
+  * National Hospital for Neurology and Neurosurgery
+  * Supervisor: Mr Anand Pandit
+
+* Summer 2020 - Summer 2021: Research Assistant
+* UCL Cancer Institute
+* Supervisor: Dr. Nischalan Pillay
   
 Programming Skills
 ======
