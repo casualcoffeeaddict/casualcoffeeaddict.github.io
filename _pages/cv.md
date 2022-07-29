@@ -31,8 +31,8 @@ Research Experience
   * Supervisor: Mr Anand Pandit
 
 * Summer 2020 - Summer 2021: Research Assistant
-* UCL Cancer Institute
-* Supervisor: Dr. Nischalan Pillay
+  * UCL Cancer Institute
+  * Supervisor: Dr. Nischalan Pillay
   
 Programming Skills
 ======
