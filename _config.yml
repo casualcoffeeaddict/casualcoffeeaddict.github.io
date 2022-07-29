@@ -6,4 +6,4 @@ navigation:
   - title: Home
     url: /
   - title: Setup
-    url: setup
+    url: pages/setup.md
