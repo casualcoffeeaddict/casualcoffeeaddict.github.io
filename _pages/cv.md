@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MBBS 2024, (expected)
+* iBSc in Mathematics, Computing and Medicine (First Class with Honours), 2022
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Assistant
+  * Max Planck Institue For Computational Psychiatry
+  * Supervisor: Prof. Ray Dolan & Dr. Lennart Luettgau
+  * Interest: Understand how humans and computational models are able to act in unseen enviroments
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Programming Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Object Oriented Programming 
+* Building Neural Networks with *Pytorch*
+* Proficency in the following languages
+  * Python
+  * Matlab
+  * R
 
 Publications
 ======
